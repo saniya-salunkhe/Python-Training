@@ -9,4 +9,4 @@ insert into example values(4,"null");
 select * from example;
 
 insert into example (name) values("Vaishali");
-select * from example;
+select * from example; 
